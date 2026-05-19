@@ -137,3 +137,5 @@ El proyecto está configurado en modo `server` (SSR) en `astro.config.mjs`. Para
 ## Licencia
 
 ISC
+
+![](https://repo-counter.stron-dev.workers.dev/?repo=https://github.com/elstron/astro-portfolio&a=2)

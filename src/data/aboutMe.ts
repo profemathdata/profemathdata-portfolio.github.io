@@ -1,11 +1,12 @@
 export const aboutMe = {
-  name: 'Soy Stron',
-  profession: 'Software Developer',
-  description: 'Passionate about building web applications and learning new technologies.',
+  name: 'Enrique Avila coloma',
+  profession: 'Científico de Datos |  Ingeniero de Datos',
+  description: 'Un Apacionado de las matemáticas y el analisis de atos.',
   bio: {
     paragraphs: [
-      "I'm a passionate software developer with over 5 years of experience in building web applications. I specialize in JavaScript and have a strong background in both frontend and backend development.",
-      "I enjoy working on challenging projects and continuously learning new technologies. In my free time, I love traveling, cooking, and gaming.",
+      "Ingeniero Civil en Automatizacióncon claro perfil técnico y práctico, decidí realizar especializaciones en Estadística y Ciencia de datos" 
+      "por mi profundo interés en el modelamiento matemático, como se relacionan las variables entre sí y como explicamos la realidad a través de"
+      "ecuaciones.",
     ]
   },
   skills: ['JavaScript', 'TypeScript', 'React', 'Node.js', 'Python'],

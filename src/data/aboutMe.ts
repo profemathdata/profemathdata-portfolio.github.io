@@ -14,7 +14,7 @@ export const aboutMe = {
     altText: "John Doe's Profile Picture",
   },
   banner: {
-    image: 'https://picsum.photos/id/4/750/200',
+    image: 'https://yt3.googleusercontent.com/BNpP8MXmXhQmE1M7__y_t4afkhLYEwsHbwUTvHRG6Eb7ilFEBHkKSPyCuhrX7MG0V80tigEM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj',
     altText: 'Technology Banner',
   },
   contact: {

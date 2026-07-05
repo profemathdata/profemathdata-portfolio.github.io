@@ -1,7 +1,7 @@
 export const experience = [
   {
     company: 'Servicios Electrocontrol Ltda.',
-    position: 'Ingneriero de Servicios',
+    position: 'Ingeniero de Servicios',
     duration: 'octubre 2025- dic 2025',
     responsibilities: [
       'Supervisión y planificación de proyectos de automatización; diseño de ingeniería de detalle.',
@@ -9,12 +9,12 @@ export const experience = [
     ],
   },
   {
-    company: 'Innovatech Ltd.',
-    position: 'Software Developer',
-    duration: 'June 2017 - December 2019',
+    company: 'Comercializadora E&C SpA.',
+    position: 'Fundador',
+    duration: 'octubre 2023 - mayo 2026',
     responsibilities: [
-      'Developed and maintained web applications using JavaScript, HTML, and CSS.',
-      'Worked closely with designers',
+      'Control financiero, optimización de inventario y análisis de ventas mediante dashboards en Excel',
+      
     ],
   },
   {

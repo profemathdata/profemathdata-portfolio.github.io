@@ -4,8 +4,8 @@ export const aboutMe = {
   description: 'Un Apasionado de las matemáticas y el análisis de datos.',
   bio: {
     paragraphs: [
-      "Ingeniero Civil en Automatización con claro perfil técnico y práctico, decidí realizar especializaciones en Estadística y Ciencia de datos" 
-      "por mi profundo interés en el modelamiento matemático, como se relacionan las variables entre sí y como explicamos la realidad a través de"
+      "Ingeniero Civil en Automatización con claro perfil técnico y práctico, decidí realizar especializaciones en Estadística y Ciencia de datos" ,
+      "por mi profundo interés en el modelamiento matemático, como se relacionan las variables entre sí y como explicamos la realidad a través de",
       "ecuaciones.",
     ]
   },

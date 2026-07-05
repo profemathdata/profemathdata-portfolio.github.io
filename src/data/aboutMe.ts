@@ -10,7 +10,7 @@ export const aboutMe = {
   skills: ['JavaScript', 'TypeScript', 'React', 'Node.js', 'Python'],
   hobbies: ['Traveling', 'Cooking', 'Gaming'],
   profile: {
-    picture: 'https://media.licdn.com/dms/image/v2/D4D35AQEE2mIZT9IRbQ/profile-framedphoto-shrink_400_400/B4DZ8x6DGQJAAU-/0/1783248728947?e=1783854000&v=beta&t=fHb93q6byIaEZHvYiwumPl9oHjMGHEUiFrM8nXgs1pE',
+    picture: 'https://www.linkedin.com/in/enrique-avila-coloma-a430074a-data/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BSi46Yr5VRbypyVOJB%2FXNrg%3D%3D',
     altText: "John Doe's Profile Picture",
   },
   banner: {

@@ -1,11 +1,11 @@
 export const experience = [
   {
-    company: 'Tech Solutions Inc.',
-    position: 'Senior Software Developer',
-    duration: 'January 2020 - Present',
+    company: 'Servicios Electrocontrol Ltda.',
+    position: 'Ingneriero de Servicios',
+    duration: 'octubre 2025- dic 2025',
     responsibilities: [
-      'Lead a team of developers to design and implement web applications using React and Node.js.',
-      'Collaborate with cross-functional teams',
+      'Supervisión y planificación de proyectos de automatización; diseño de ingeniería de detalle.',
+      'Logro: Diseñé e implementé un sistema automatizado de contrataciones que redujo los tiempos de tramitación de 2 horas a 4 minutos (una reducción del 96% en tiempo invertido).',
     ],
   },
   {

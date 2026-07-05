@@ -1,5 +1,5 @@
 export const aboutMe = {
-  name: 'Enrique Avila coloma',
+  name: 'Enrique Avila Coloma',
   profession: 'Científico de Datos |  Ingeniero de Datos',
   description: 'Un Apasionado de las matemáticas y el análisis de datos.',
   bio: {

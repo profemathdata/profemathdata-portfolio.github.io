@@ -1,7 +1,7 @@
 export const aboutMe = {
   name: 'Enrique Avila coloma',
   profession: 'Científico de Datos |  Ingeniero de Datos',
-  description: 'Un Apacionado de las matemáticas y el analisis de atos.',
+  description: 'Un Apasionado de las matemáticas y el analisis de atos.',
   bio: {
     paragraphs: [
       "Ingeniero Civil en Automatizacióncon claro perfil técnico y práctico, decidí realizar especializaciones en Estadística y Ciencia de datos" 

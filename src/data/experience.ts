@@ -20,11 +20,19 @@ export const experience = [
   {
     company: 'Carabineros de Chile.',
     position: 'Analista de procesamiento de datos (Data Analyst)',
-    duration: 'Dic 2018 - sep 2023',
+    duration: 'Dic 2017 - sep 2023',
     responsibilities: [
       'Modelamiento estadístico y predictivo de delitos; creación de dashboards de KPIs institucionales.',
       'Diseño de planes de acción basados en datos para optimización de recursos policiales.',
       'Logro: Implementé una estructura de Análisis y modelamiento estadístico de Delitos lo que permitió desarrollar y ejecutar planes de acción que redujeron la tasa de victimización hasta un 13% en 2 años.',
+    ],
+  }
+    {
+    company: 'SGS Minerals.',
+    position: 'Ingeniero Estadístico',
+    duration: 'Sep 2017 - Dic 2017',
+    responsibilities: [
+      'Automatización de reportes con VBA; herramienta de visualización de procesos productivos en tiempo real.',
     ],
   }
 ]

@@ -1,4 +1,4 @@
-export const experiencia = [
+export const experience = [
   {
     company: 'Servicios Electrocontrol Ltda.',
     position: 'Ingeniero de Servicios',

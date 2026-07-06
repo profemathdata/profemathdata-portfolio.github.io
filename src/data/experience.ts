@@ -26,8 +26,8 @@ export const experience = [
       'Diseño de planes de acción basados en datos para optimización de recursos policiales.',
       'Logro: Implementé una estructura de Análisis y modelamiento estadístico de Delitos lo que permitió desarrollar y ejecutar planes de acción que redujeron la tasa de victimización hasta un 13% en 2 años.',
     ],
-  }
-    {
+  },
+  {
     company: 'SGS Minerals.',
     position: 'Ingeniero Estadístico',
     duration: 'Sep 2017 - Dic 2017',

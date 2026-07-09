@@ -35,8 +35,16 @@ export const experience = [
       'Automatización de reportes con VBA; herramienta de visualización de procesos productivos en tiempo real.',
     ],
   },
+  {
+    company: 'CTI. EIRL.  ',
+    position: 'Técnico de Mantenimiento',
+    duration: 'Abr 2015 - Abr 2016',
+    responsibilities: [
+      ' Instrumentista en parada de planta, calibración de válvulas de presión con actuador neumático y posicionador marca Samson, mantenimiento de rotámetros y reguladores de Presión. Reposición de emisores en mal estado para etapa de Solaronics, remoción de material sobrante en límites de carrera y correa transportadora para etapa de FIBRON. calibración de sensores de nivel, desarme de válvulas solenoide marca Danfoss y verificación de estado ',
+    ],
+  },
     {
-    company: 'NFOCAP, IPA UBB, USM.  ',
+    company: 'INFOCAP, IPA, UBB, USM.  ',
     position: 'Docente Universitario',
     duration: 'Sep 2009 - Dic 2017',
     responsibilities: [

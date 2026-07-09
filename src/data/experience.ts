@@ -34,5 +34,13 @@ export const experience = [
     responsibilities: [
       'Automatización de reportes con VBA; herramienta de visualización de procesos productivos en tiempo real.',
     ],
-  }
+  },
+    {
+    company: 'NFOCAP, IPA UBB, USM.  ',
+    position: 'Docente Universitario',
+    duration: 'Sep 2009 - Dic 2017',
+    responsibilities: [
+      'Planificación y ejecución de cátedras especializadas ("alfabetización digital para la inserción laboral de sectores vulnerables", "Física I", "Matemáticas", "Probabilidad", "Inferencia y Estadística", "(Lectura Planos P&ID)"',
+    ],
+  },
 ]

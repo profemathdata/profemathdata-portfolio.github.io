@@ -43,8 +43,16 @@ export const experience = [
       ' Instrumentista en parada de planta, calibración de válvulas de presión con actuador neumático y posicionador marca Samson, mantenimiento de rotámetros y reguladores de Presión. Reposición de emisores en mal estado para etapa de Solaronics, remoción de material sobrante en límites de carrera y correa transportadora para etapa de FIBRON. calibración de sensores de nivel, desarme de válvulas solenoide marca Danfoss y verificación de estado ',
     ],
   },
+  {
+    company: 'Servicios electrocontrol LTDA.  ',
+    position: 'Técnico Instrumentista y Técnico de Dibujo AUTOCAD ',
+    duration: 'Sep 2011 - feb 2012',
+    responsibilities: [
+      'Técnico planta Termoeléctrica Santa María Coronel, calibrando válvulas neumáticas marca Siemens con posicionador marca Festo, transmisores nivel, de presión, de temperatura Marca Endress+Hauser, Cableado para sistema de control del Water Canon. Ademas  corrección de Planos Eléctricos de Calderas, Edificios Eléctricos, Turbine Hall, Área de desalinización para Ingeniería de Detalle.',
+    ],
+  },
     {
-    company: 'INFOCAP, IPA, UBB, USM.  ',
+    company: 'INFOCAP, IPA, UBB, USM.',
     position: 'Docente Universitario',
     duration: 'Sep 2009 - Dic 2017',
     responsibilities: [

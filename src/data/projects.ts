@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "ELASTIC NET",
-    description: "En este proyecto montamos una Regresion Elastic Net, para reducir variables y montar un modelo más parsimonioso",
+    description: "En este proyecto construyo una Regresion Elastic Net, para reducir variables y montar un modelo más parsimonioso",
     image: "https://picsum.photos/250/201",
     link: "https://example.com/project1",
     stack: ['React', 'Node.js', 'MongoDB']

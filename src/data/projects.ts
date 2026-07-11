@@ -3,7 +3,7 @@ export const projects = [
     title: "ELASTIC NET",
     description: "En este proyecto construyo una Regresion Elastic Net, para reducir variables y montar un modelo más parsimonioso",
     image: "https://picsum.photos/250/201",
-    link: "https://nbviewer.org/github/profemathdata/profemathdata-portfolio.github.io/blob/main/ElasticNet_final3.ipynb",
+    link: "https://www.researchgate.net/figure/Elastic-Net-coefficient-paths-as-the-tuning-parameter-l-for-different-values-of-the_fig1_387350885",
     stack: ['React', 'Node.js', 'MongoDB']
   },
   {
